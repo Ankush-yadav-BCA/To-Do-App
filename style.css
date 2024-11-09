@@ -1,0 +1,9 @@
+.delete{
+    background-color: rgb(250, 105, 105);
+}
+.items{
+    margin: 1rem;
+}
+.active{
+    background-color: green;
+}
